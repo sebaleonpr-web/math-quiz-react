@@ -1,5 +1,4 @@
-import React from "react";
-import MathQuizScreen from "../../screens/MathQuizScreen";
+import MathQuizScreen from "../../src/screens/MathQuizScreen";
 
 export default function Home() {
   return <MathQuizScreen />;

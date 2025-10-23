@@ -1,10 +1,9 @@
 // screens/MathQuizScreen.tsx
-import React, { useState, useEffect } from "react";
-import { View, Text, StyleSheet, SafeAreaView, StatusBar } from "react-native";
+import { useEffect, useState } from "react";
+import { SafeAreaView, StatusBar, StyleSheet, Text, View } from "react-native";
+import QuizOptionButton from "../components/QuizOptionButton";
 import { AppColors } from "../core/colors";
 import { TextStyles } from "../core/textStyles";
-import QuizOptionButton from "../components/import QuizOptionButton froQuizOptionButton";
-
 export default function MathQuizScreen() {
   const [num1, setNum1] = useState<number>(0);
   const [num2, setNum2] = useState<number>(0);
