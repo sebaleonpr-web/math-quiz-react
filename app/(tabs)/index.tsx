@@ -1,5 +1,5 @@
 import MathQuizScreen from "../../src/screens/MathQuizScreen";
 
-export default function Home() {
+export default function index() {
   return <MathQuizScreen />;
 }
