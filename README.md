@@ -1,50 +1,31 @@
-# Welcome to your Expo app 👋
+MATHQUIZ
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+MathQuiz es una app de práctica matemática para Android. 
+Sirve para entrenar la rapidez mental con sumas simples. 
+Solo eliges la respuesta correcta entre cuatro opciones y ves si acertaste o no.
 
-## Get started
+--------------------------------------------
+DESCRIPCIÓN
+--------------------------------------------
+El juego muestra sumas al azar, con cuatro respuestas posibles. 
+Cuando tocas una opción, la app te dice si fue correcta o incorrecta. 
+Después puedes pasar a la siguiente pregunta y seguir jugando.
 
-1. Install dependencies
+--------------------------------------------
+CARACTERÍSTICAS
+--------------------------------------------
+- Sumas aleatorias del 1 al 10
+- Cuatro opciones por pregunta
+- Mensaje de acierto o error
+- Botón “Siguiente”
+- Diseño limpio y colores personalizados
 
-   ```bash
-   npm install
-   ```
+--------------------------------------------
+INSTALACIÓN
+--------------------------------------------
+1. Copia el archivo MathQuiz.apk a tu teléfono(Android).
+2. Abre el archivo y presiona Instalar.
+3. Si el sistema lo pide, activa “Permitir instalación de apps desconocidas”.
+4. Una vez instalada, abre MathQuiz y empieza a jugar.
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+BYSEBA
