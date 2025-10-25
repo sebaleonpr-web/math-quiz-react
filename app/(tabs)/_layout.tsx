@@ -6,9 +6,8 @@ export default function TabLayout() {
 
   return (
     <Tabs
-    //para configurar el estilo de la cabecera de la aplicacion
       screenOptions={{
-        headerStyle: { backgroundColor: '#0d1321' },
+        headerStyle: { backgroundColor: '#795548' },
         headerTintColor: '#ffffff',
       }}
     >
